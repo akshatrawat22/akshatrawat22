@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshatrawat22
-- 👀 I’m interested in ... learning
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning ...React.js and Python
-- 💞️ I’m looking to collaborate on ...idk
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... reach me on my insta @akshatrawat22
 - 😄 Pronouns: ...im straight not into all this
 - ⚡ Fun fact: ...i was a fun content creator once
